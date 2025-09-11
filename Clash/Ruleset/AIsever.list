@@ -40,7 +40,11 @@ IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 
 # Claude相关
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 
 # Gemini/Google AI相关
 DOMAIN-KEYWORD,colab
@@ -85,6 +89,36 @@ DOMAIN-SUFFIX,bingworld.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,edgeservices.bing.com
 
+# GitHub Copilot相关
+DOMAIN,api.githubcopilot.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
+
+# Groq相关
+DOMAIN,api.groq.com
+DOMAIN,console.groq.com
+
+# Together AI相关
+DOMAIN,api.together.xyz
+
+# Cursor相关
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+
+# JetBrains AI相关
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+
+# Meta AI相关
+DOMAIN-SUFFIX,meta.ai
+
+# Mistral AI相关
+DOMAIN-SUFFIX,mistral.ai
+
+# Azure AI相关
+DOMAIN-SUFFIX,ai.azure.com
+
 # 其他AI服务
 DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,www.perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
