@@ -125,4 +125,7 @@ DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,trae.ai
+DOMAIN,api-sg-central.trae.ai
+DOMAIN,api.trae.ai
+DOMAIN,telemetry.trae.ai
 DOMAIN-SUFFIX,ollama.com
