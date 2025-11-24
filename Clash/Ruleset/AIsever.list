@@ -53,6 +53,7 @@ DOMAIN-KEYWORD,generativelanguage
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
+DOMAIN,aistudio.google.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,deepmind.com
@@ -60,6 +61,7 @@ DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
 
 # Bing/Microsoft AI相关
 DOMAIN,api.msn.com
@@ -122,3 +124,5 @@ DOMAIN-SUFFIX,ai.azure.com
 # 其他AI服务
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,ollama.com
