@@ -44,6 +44,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # Gemini/Google AI相关
@@ -59,6 +60,8 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN,generativelanguage.googleapis.com
@@ -129,3 +132,11 @@ DOMAIN,api-sg-central.trae.ai
 DOMAIN,api.trae.ai
 DOMAIN,telemetry.trae.ai
 DOMAIN-SUFFIX,ollama.com
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,inflection.ai
+DOMAIN-SUFFIX,pi.ai
+DOMAIN-SUFFIX,stability.ai
