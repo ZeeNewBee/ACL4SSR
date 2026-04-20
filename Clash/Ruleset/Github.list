@@ -1,5 +1,5 @@
 # 内容：Github
-# 数量：8条
+# 数量：9条
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -7,4 +7,5 @@ DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,lscr.io
 DOMAIN-SUFFIX,githubstatus.com
