@@ -124,12 +124,12 @@ DOMAIN-SUFFIX,mistral.ai
 # Azure AI相关
 DOMAIN-SUFFIX,ai.azure.com
 
-# TRAE.ai
-DOMAIN-SUFFIX,traecdn.ai
-DOMAIN-SUFFIX,trae.ai
-DOMAIN,api-sg-central.trae.ai
-DOMAIN,api.trae.ai
-DOMAIN,telemetry.trae.ai
+# TRAE.ai（已注销）
+# DOMAIN-SUFFIX,traecdn.ai
+# DOMAIN-SUFFIX,trae.ai
+# DOMAIN,api-sg-central.trae.ai
+# DOMAIN,api.trae.ai
+# DOMAIN,telemetry.trae.ai
 
 # 其他AI服务
 DOMAIN-SUFFIX,poe.com
